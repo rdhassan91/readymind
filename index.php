@@ -1,6 +1,6 @@
 <?php
 
 
-incu_once("register1.html");
+include_once("register1.html");
 
 ?>
